@@ -81,6 +81,7 @@ form {
 	font-weight: 600;
 	text-align: center;
 }
+
 .footer
 {
 	
@@ -210,6 +211,7 @@ border: none;
 opacity: 0;
 top: 20px;
 }
+
 /*-----start-responsive-design------*/
 @media only screen and (max-width: 1366px) and (min-width: 1280px){
 	.wrap{
